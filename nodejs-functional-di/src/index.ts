@@ -1,5 +1,5 @@
-const express = require("express");
-const api = require("./api");
+import * as express from 'express';
+import api from './api';
 
 const app = express();
 const webapi = api();

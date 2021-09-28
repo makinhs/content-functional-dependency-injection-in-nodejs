@@ -7,4 +7,4 @@ const emailSender = (log) => {
   };
 };
 
-module.exports = emailSender;
+export default emailSender;

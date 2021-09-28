@@ -14,4 +14,4 @@ const repository = (log, dbConf) => {
   };
 };
 
-module.exports = repository;
+export default repository;

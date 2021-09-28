@@ -12,4 +12,4 @@ const service = (repository, emailSender, log) => {
   };
 };
 
-module.exports = service;
+export default service;
